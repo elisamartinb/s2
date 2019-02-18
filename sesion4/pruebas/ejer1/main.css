@@ -1,0 +1,8 @@
+.box {
+    box-sizing: content-box;
+    width: 80px;
+    height: 100px;
+    padding: 6px;
+    background-color: salmon;
+    border: 5px solid black;
+}

@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+  }
+.list {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+header{
+    position: fixed;
+    background-color: coral;
+    width: 100%;
+}
+
+#s1, #s2, #s3 {
+    position: relative;
+  }

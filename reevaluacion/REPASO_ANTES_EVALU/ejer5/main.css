@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.div__item {
+    height: 50px;
+    width: 50px;
+    
+    border: 1px black solid;
+}

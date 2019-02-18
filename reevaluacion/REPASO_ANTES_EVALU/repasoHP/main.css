@@ -1,0 +1,68 @@
+body{
+  background: url("bgmix.jpg");
+  position: top;
+  height:2000px;
+}
+
+h1{
+  text-align: center;
+}
+input{
+  position: relative;
+  left:40%;
+}
+
+.gif{
+  background: url("hpgif.gif");
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+img{
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+.list{
+  display: grid;
+    grid-template-columns: repeat(3, 200px);
+    grid-gap: 20px;
+    list-style: none;
+    margin: 0 auto;
+    padding: 40px;
+    width: 640px;
+    text-align: center;
+}
+
+
+.list__item{
+  border: 1px solid black;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.character__title{
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+}
+
+.character__image{
+  border: 1px solid peru;
+  height: 200px;
+  width: 100%;
+}
+
+.house__title{
+color: peru;
+}
+
+.alive__title{
+color: maroon;
+}
+

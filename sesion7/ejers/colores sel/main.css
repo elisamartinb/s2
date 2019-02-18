@@ -1,0 +1,36 @@
+body {
+    background-color: firebrick;
+    min-height: 100vh;
+}
+
+.salmon {
+    background-color: salmon;
+
+}
+
+.peru {
+    background-color: peru;
+    
+}
+
+.cyan {
+    background-color: cyan;
+    
+}
+
+.yellow {
+    background-color: yellow;
+    
+}
+.marsala {
+    background-color: #7F4145;
+}
+
+.blue {
+    background-color: blue;
+    
+}
+
+.green {
+    background-color: #672E3B;
+}

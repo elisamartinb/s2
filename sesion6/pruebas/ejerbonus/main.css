@@ -1,0 +1,19 @@
+.main {
+    background-color: yellow;
+  }
+  
+  .box {
+    background-color:red;
+    width: 500px;
+    height: 500px;
+    font-size: 40px;
+    color: black;
+  }
+  
+  .pink {
+    background-color: salmon;
+  }
+  
+  .black {
+    background-color: black;
+  }
